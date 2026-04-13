@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esimvista.com/sitemap.xml
